@@ -347,3 +347,9 @@ p {
 .bold {
 	font-weight: bold;
 }
+
+
+.scholar svg {
+	fill: white;
+	color: white;
+}
