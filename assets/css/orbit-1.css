@@ -348,6 +348,15 @@ p {
 	font-weight: bold;
 }
 
+.code_data {
+	xbackground-color: PowderBlue;
+	border: 1px solid MediumTurquoise;
+	border-radius:3px;
+	display: inline-block;
+	padding-left: 4px;
+	padding-right: 4px;
+	color: DarkSlateGrey;
+}
 
 .scholar svg {
 	fill: white;
