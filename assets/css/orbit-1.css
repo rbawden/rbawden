@@ -348,6 +348,10 @@ p {
 	font-weight: bold;
 }
 
+.it {
+	font-style: oblique;
+}
+
 .code_data {
 	xbackground-color: PowderBlue;
 	border: 1px solid MediumTurquoise;
